@@ -30,9 +30,8 @@ To run the notebooks, you need to have the following installed:
 
 ### Results
 1. Analysis
-- Key findings and visualizations from the data analysis.
-- Insights into car price trends, popular brands, and models.
+   - Key findings and visualizations from the data analysis.
+   - Insights into car price trends, popular brands, and models.
 2. Prediction
-- Performance metrics of different ML models used for car price prediction.
-- Comparative analysis of model accuracy and other evaluation metrics.
-Contributing
+   - Performance metrics of different ML models used for car price prediction.
+   - Comparative analysis of model accuracy and other evaluation metrics.
